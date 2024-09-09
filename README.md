@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or support, please open an issue on the [GitHub repository](https://github.com/yourusername/todo-app-angular/issues) or contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please open an issue on the [GitHub repository](https://github.com/prathapreddy0227/todo-app-angular/issues) or contact me at [your-email@example.com](mailto:prathapreddy4868@gmail.com).
 
 ---
 
